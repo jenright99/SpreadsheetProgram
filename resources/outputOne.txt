@@ -1,0 +1,12 @@
+A2 ="Ben Lerner"
+B3 =(> B1 B2)
+A1 =4
+B2 =(PRODUCT B1 A4 A4)
+B1 =(SUM A1 A3 A4 1)
+A6 =true
+A5 =false
+B6 =B6
+A4 =A1
+B5 =(SUM B6 B2)
+A3 =5
+B4 =(< B1 B2)
